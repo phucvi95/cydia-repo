@@ -1,10 +1,10 @@
-Package: com.mins.boostgo
+Package: com.boostgo.repo
 Version: 0.0.1-228+debug
 Section: Tweaks
 Maintainer: PhucVi <phucvv@boostgo.com>
 Depends: firmware (>7.0), mobilesubstrate
 Architecture: iphoneos-arm
-Filename: ./debs/com.mins.boostgo_0.0.1-228+debug_iphoneos-arm.deb
+Filename: ./debs/com.boostgo.repo_0.0.1-228+debug_iphoneos-arm.deb
 Size: 860
 MD5sum: 8c606f0c05217aa2a20949091fe516f0
 Description: BoostGO tool change

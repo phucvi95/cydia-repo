@@ -1,8 +1,8 @@
-Origin: PhucVi
-Label: PhucVi
+Origin: BoostGO
+Label: BoostGO
 Suite: stable
 Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Description: PhucVi - a cydia repo template
+Description: BoostGO's repo
