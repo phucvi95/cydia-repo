@@ -1,7 +1,7 @@
 <package>
-	<id>com.boostgo.repo.toolchange</id>
-	<name>BoostGO's Tool Change</name>
-	<version>0.0.1-228+debug</version>
+	<id>com.mins.boostgo</id>
+	<name>BoostGO</name>
+	<version>0.0.1-60</version>
 	<compatibility>
 		<firmware>
 			<miniOS>7.0</miniOS>
@@ -24,7 +24,7 @@
 		<screenshot>
 			<description>This is a description for screenshot 1. It's Cydia!</description>
 			<image>cydia.jpg</image>
-		</screenshot>	
+		</screenshot>
 	</screenshots>
 	<changelog>
 		<change>Second release</change>
