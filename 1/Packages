@@ -1,0 +1,17 @@
+Package: com.mins.boostgo
+Version: 0.0.1-60+debug
+Architecture: iphoneos-arm
+Maintainer: Mins
+Installed-Size: 91320
+Depends: mobilesubstrate, zip, tar, unzip, gzip, unrar, p7zip, openssh, curl,ldid, jetslammed
+Filename: ./debs/com.mins.boostgo_0.0.1-60+debug_iphoneos-arm.deb
+Size: 29049610
+MD5sum: 5d1e96740902430e2f3c0378eb40cb9d
+SHA1: ae84464cd7f437010a1dcd767c2dd2630cf7bf7a
+SHA256: a0763c2e8ea248e15770085c3be49c759f3793d00da9e667da526454f158df1e
+Section: System
+Description: An awesome tool of some sort!!
+Tag: role::hacker
+Author: Mins
+Name: BoostGO
+
