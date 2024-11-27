@@ -1,7 +1,7 @@
 <package>
 	<id>com.mins.boostgo</id>
-	<name>BoostGO Package</name>
-	<version>2.0.0-1</version>
+	<name>BoostGO</name>
+	<version>0.0.1-60</version>
 	<compatibility>
 		<firmware>
 			<miniOS>7.0</miniOS>
@@ -10,7 +10,7 @@
 	<dependencies>
 		<package>mobilesubstrate</package>
 	</dependencies>
-	<shortDescription>This is a sample new package. Firmware should be greater than 7.0</shortDescription>
+	<shortDescription>This is BoostGO's Tool Change</shortDescription>
 	<descriptionlist>
 		<description>This is an package will full depictions.</description>
 		<description>It has more description lines.</description>
@@ -24,11 +24,7 @@
 		<screenshot>
 			<description>This is a description for screenshot 1. It's Cydia!</description>
 			<image>cydia.jpg</image>
-		</screenshot>		
-		<screenshot>
-			<description>This is a description for screenshot 2. It's another Cydia!</description>
-			<image>cydia.jpg</image>
-		</screenshot>		
+		</screenshot>
 	</screenshots>
 	<changelog>
 		<change>Second release</change>
