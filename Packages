@@ -1,0 +1,134 @@
+Package: com.mins.boostgo
+Version: 0.0.1-73+debug
+Architecture: iphoneos-arm
+Maintainer: Mins
+Installed-Size: 91320
+Depends: mobilesubstrate, zip, tar, unzip, gzip, unrar, p7zip, openssh, curl,ldid, jetslammed
+Filename: ./debs/com.mins.boostgo_0.0.1-73+debug_iphoneos-arm.deb
+Size: 29049646
+MD5sum: 7e7f7d6ace638d12c27ddf6c1a18dc7a
+SHA1: 46e85983683add91fe21ece2908da9960f631261
+SHA256: 79e87849d36167b47ca3527d8a2a727ed46e3db01ce2c989a4c0f6fddb409dd1
+Section: System
+Description: An awesome tool of some sort!!
+Tag: role::hacker
+Author: Mins
+Depiction: https://repo.phucvi.me/depictions/?p=com.mins.boostgo
+Name: BoostGO
+
+Package: com.mins.ramleakprevent
+Version: 0.0.1-13+debug
+Architecture: iphoneos-arm
+Maintainer: Mins
+Installed-Size: 80
+Depends: jetslammed
+Filename: ./debs/com.mins.ramleakprevent_0.0.1-13+debug_iphoneos-arm.deb
+Size: 5664
+MD5sum: 31d83cd736c2b5e6e93bab75e94d3b28
+SHA1: b22940d24a40905af76aeb0608ec45f491e0bd33
+SHA256: a0c170a065793bc630edfbc22587b3ad5b58bf323dcded1a64674d949073f823
+Section: System
+Description: Extend ram for SpringBoard
+Tag: role::hacker
+Author: Mins
+Name: RamLeak
+
+Package: com.mins.youtubeactions
+Version: 0.0.1-110+debug
+Architecture: iphoneos-arm
+Maintainer: Mins
+Installed-Size: 228
+Filename: ./debs/com.mins.youtubeactions_0.0.1-110+debug_iphoneos-arm.deb
+Size: 11434
+MD5sum: 3a7869a08103d5a2ecc2299a038df065
+SHA1: 8d2db2dd19eae3d02eebf826b9b8a3a7a367a2ea
+SHA256: d4c4bcac387a3514055b056fcca9a7423b8899d5d51d314fd51fc4ce0685ca40
+Section: System
+Description: An awesome tool of some sort!!
+Tag: role::hacker
+Author: Mins
+Name: YouTubeActions
+
+Package: com.opa334.trollstorehelper
+Version: 2.1
+Architecture: iphoneos-arm
+Maintainer: opa334
+Installed-Size: 4400
+Filename: ./debs/com.opa334.trollstorehelper_2.1_iphoneos-arm.deb
+Size: 2332214
+MD5sum: 69ed0e966615130200236cc9066e432e
+SHA1: 00de47635080a053998db3795fee2da4cd48c421
+SHA256: 5dc1b90067d95a4dd46da89fbaccbb15857a07edd500a9bb8f776c8aba67ec0c
+Section: Applications
+Description: Helper utility to install and manage TrollStore!
+Author: opa334
+Name: TrollStore Helper
+
+Package: jetslammed
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: Mario Ciabarra <https://github.com/mariociabarra/jetslammed>
+Depends: firmware (>= 7)
+Filename: ./debs/jetslammed_1.2_iphoneos-arm.deb
+Size: 12388
+MD5sum: 7f267fd2efb7b7dcfcceecc59cdacf1d
+SHA1: 5dce5e8eab54a3fb9fae3692a36c96ec21f870d0
+SHA256: c04eb54da130b21e9660b3092fd34735b69535a8a4ad7ca6360cfa59749cfe72
+Section: Utilities
+Description: Library for modifying jetsam memory limits per process
+Author: Mario Ciabarra <https://github.com/mariociabarra/jetslammed>
+Depiction: http://modmyi.com/info/jetslammed.d.php
+Name: Jetslammed
+Sponsor: ModMyi.com <http://modmyi.com/forums/index.php?styleid=31>
+
+Package: net.kenhtao.autotouch.inputtext
+Version: 7.1.6-1
+Architecture: iphoneos-arm
+Maintainer: Kênh Táo
+Installed-Size: 107320
+Depends: firmware (>= 9.0), mobilesubstrate
+Conflicts: net.kenhtao.libat, net.kenhtao.autotouch, com.repo.xarold.com.autotouch8, repo.biteyourapple.net.autotouch8, repo.biteyourapple.net.autotouch, com.hackyouriphone.autotouch8
+Filename: ./debs/net.kenhtao.autotouch.inputtext_7.1.6-1_iphoneos-arm.deb
+Size: 47922280
+MD5sum: 9ddfd52abd98ac8c7d0e13ed4e382d64
+SHA1: 0914ae58e18b23fe64eb8fa60c6e392eed2d8962
+SHA256: 7c236ac7306828aedb4beb699a8c1d63318b60ce4ee42a62d100f1fbc0530f86
+Section: Utilities
+Priority: optional
+Description: AutoClick cho iOS.
+Author: Kent Krantz <kentkrantz@gmail.com>
+Icon: file:///Applications/Cydia.app/Sections/tienich.png
+Name: AutoTouch with inputText VN
+
+Package: openssh
+Version: 8.4-2
+Architecture: iphoneos-arm
+Maintainer: Sam Bingner <maintainer@sbdhi.com>
+Installed-Size: 8
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: libssl1.1.1, openssh-server, openssh-client, openssh-global-listener
+Filename: ./debs/openssh_8.4-2_iphoneos-arm.deb
+Size: 1058
+MD5sum: 963b5cfb6611dcc07776ce1ba15ce2a9
+SHA1: 93f69563a963d0e18cd4afcbc6e90e6e0157dbbe
+SHA256: b172e76c6603fae63d38fc10af2fdc18d805abec15b3a21d5b0b805287075d55
+Section: Networking
+Priority: important
+Description: secure shell (SSH) server, for secure access from remote machines
+ This is the portable version of OpenSSH, a free implementation of the
+ Secure Shell protocol as specified by the IETF secsh working group.
+ .
+ Ssh (Secure Shell) is a program for logging into a remote machine and
+ for executing commands on a remote machine.  It provides secure
+ encrypted communications between two untrusted hosts over an insecure
+ network. X11 connections and arbitrary TCP/IP ports can also be
+ forwarded over the secure channel.  It can be used to provide
+ applications with a secure communication channel.
+ .
+ This package provides the sshd server.
+ .
+ In some countries it may be illegal to use any encryption at all
+ without a special permit.
+Depiction: http://cydia.saurik.com/info/openssh/
+Name: OpenSSH
+
