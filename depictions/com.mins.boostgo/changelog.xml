@@ -1,9 +1,8 @@
 <changelog>
 	<changes>
-		<version>0.0.1-61</version>
-		<change>Second release</change>
-		<change>It has feature 1</change>
-		<change>It has feature 2</change>
+		<version>1.0.6</version>
+		<change>rollback old version</change>
+		<change>remove 4 item fake</change>
 	</changes>
 	<changes>
 		<version>1.0.0-1</version>
