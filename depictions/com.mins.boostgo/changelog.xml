@@ -1,5 +1,10 @@
 <changelog>
 	<changes>
+		<version>1.0.7</version>
+		<change>6s: </change>
+		<change>remove boostgo vpn</change>
+	</changes>
+	<changes>
 		<version>1.0.6</version>
 		<change>rollback old version</change>
 		<change>remove 4 item fake</change>
